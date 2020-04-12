@@ -45,10 +45,7 @@ namespace ProdCat
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "api catalogo - V1");
             });
-            //app.Run(async (context) =>
-            //{
-            //    await context.Response.WriteAsync("Hello World!");
-            //});
+           
         }
     }
 }
